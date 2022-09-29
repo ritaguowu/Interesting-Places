@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Interesting Places</string>
+    <string name="add">add</string>
+
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="title">Title</string>
+    <string name="no_interesting_places_found_yet">No interesting places found yet!</string>
+
+    <string name="image_content_description">image</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="google_maps_api_key">AIzaSyA5rZobtiWiTf77P_R97shOxIs2y_4cPlg</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+
+    <!--Step 3: The string values are added here for Select current location-->
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+    <string name="search">Search</string>
+    <string name="search_location">Search Location</string>
+</resources>
